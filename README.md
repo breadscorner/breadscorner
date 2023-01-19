@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything to help me on my coding journey.
 - 📫 How to reach me hello@brettgill.io
 
-https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
 
 <!---
 breadscorner/breadscorner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
