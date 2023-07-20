@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/breadscorner/breadscorner/f378377ed53c8a81cf74c13ce7c27aaf8b0b8eac/Brett%20Gill%20Github%20Cover.png" alt="Brett Cover">
-Hey there! I'm Brett Gill, a web developing student who discovered his passion for web development while creating a website for my retail business, Precious Pawz. It was a fulfilling experience that ignited a genuine interest in this field. That's when I decided to make a career transition and dive deeper into web development.
+
+## 
+
+I am a web developing student who discovered his passion for web development while creating a website for my retail business, Precious Pawz. It was a fulfilling experience that ignited a genuine interest in this field. That's when I decided to make a career transition and dive deeper into web development.
 
 Currently, I'm enrolled in the Full Stack Web Development program at BCIT, where I'm gaining a comprehensive understanding of both front-end and back-end technologies. The program has not only expanded my technical knowledge but also sharpened my design and management skills.
 
