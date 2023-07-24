@@ -10,15 +10,12 @@ When I'm not coding, you'll find me working towards my personal growth. I'm an a
 
 I'm eagerly looking forward to taking on more challenging projects and collaborating with fellow developers to create innovative and impactful solutions and eventually creating my own business in tech.
 
-<div>
-  <h2>:fire: My Stats :</h2>
+  ## :fire: My Stats
   <br>
   <p align="center">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=breadscorner&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
-  </p>
-</div>
 
 <br>
 <div align="center">
@@ -27,52 +24,33 @@ I'm eagerly looking forward to taking on more challenging projects and collabora
   </a>
 </div>
 
-## Actively learning:
+## :fire: Actively Learning
 
 ### Languages:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</div>
+  ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Technologies:
 
-<div align="center">
-    <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-    <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-    <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-    <img src="https://img.shields.io/badge/Google_Chrome-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome">
-</div>
+  ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white)
+  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google_Chrome-000000?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-## Socials:
+## :fire: Socials
 
-<br>
-<div align="center">
-  <span>
-    <a href="https://www.facebook.com/brett.gill.986">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </span>
-  <span>
-    <a href="https://www.instagram.com/bstevieg/">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </span>
-  <span>
-    <a href="https://www.linkedin.com/in/thebrettgill/">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </span>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.facebook.com/brett.gill.986)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bstevieg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebrettgill/)
 
-## Connect:
+## :fire: Connect
 
 <br>I'm always looking to collaborate on projects that can help me grow as a developer, so please feel free to reach out to me at hello@brettgill.io if you have any opportunities or ideas.
 
