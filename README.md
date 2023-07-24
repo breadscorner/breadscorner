@@ -10,6 +10,16 @@ When I'm not coding, you'll find me working towards my personal growth. I'm an a
 
 I'm eagerly looking forward to taking on more challenging projects and collaborating with fellow developers to create innovative and impactful solutions and eventually creating my own business in tech.
 
+<div>
+  <h2>:fire: My Stats :</h2>
+  <br>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=breadscorner&theme=dark&background=000000" alt="GitHub Streak" />
+    </a>
+  </p>
+</div>
+
 ## Actively learning:
 
 ### Languages:
