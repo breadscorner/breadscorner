@@ -26,18 +26,45 @@ I'm eagerly looking forward to taking on more challenging projects and collabora
 
 ## :fire: Actively Learning
 
-### Languages:
+### Languages, Libraries, and Tools:
 
-  ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github.com/breadscorner/breadscorner/assets/108560747/2a117fd5-35be-4f08-91c0-4dbbe2bdc87b" 
+     alt="NodeJS"
+     width="75" 
+     height="75">
+<img src="https://github.com/breadscorner/breadscorner/assets/108560747/5d69e0b0-0cc8-441e-9cf7-92a90eea668d" 
+     alt="HTML"
+     width="75" 
+     height="75">
+<img src="https://github.com/breadscorner/breadscorner/assets/108560747/0c7d3fa0-5102-4209-8a12-4047011643e4" 
+     alt="CSS"
+     width="75" 
+     height="75">
+<img src="https://github.com/breadscorner/breadscorner/assets/108560747/1a3edf49-ba0c-40a7-a0cf-f9fb979f5c39" 
+     alt="MySQL"
+     width="75" 
+     height="75">
+<img src="https://github.com/breadscorner/breadscorner/assets/108560747/1ddbd5ea-d451-4a0e-ab94-28a38933592a" 
+     alt="Javascript"
+     width="75" 
+     height="75">
+  <img src="https://github.com/breadscorner/breadscorner/assets/108560747/45a69e11-14ce-49b0-bf4d-8a6ea3b85173" 
+     alt="PHP"
+     width="75" 
+     height="75">
+  <img src="https://github.com/breadscorner/breadscorner/assets/108560747/7f0f35e2-5a98-4eae-b4a7-f2227ee35886" 
+     alt="Typescript"
+     width="75" 
+     height="75">
+  <img src="https://github.com/breadscorner/breadscorner/assets/108560747/721e0023-f5a7-4efe-8d8a-8e6a7d885e25" 
+     alt="Prisma"
+     width="75" 
+     height="75">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" 
+     alt="Tailwind CSS Logo"
+     width="75" 
+     height="75">
 
-### Technologies:
-
-  ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white)
