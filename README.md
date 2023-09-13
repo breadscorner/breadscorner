@@ -12,10 +12,12 @@ I'm eagerly looking forward to taking on more challenging projects and collabora
 
   ## :fire: My Stats
   <br>
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=breadscorner&theme=dark&background=000000" alt="GitHub Streak" />
-    </a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=breadscorner&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 <br>
 <div align="center">
