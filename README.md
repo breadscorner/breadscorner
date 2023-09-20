@@ -14,11 +14,9 @@ I'm eagerly looking forward to taking on more challenging projects and collabora
   <br>
   <div align="center" style="background-color: black;">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=breadscorner&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=breadscorner&theme=buefy-dark" alt="GitHub Streak" />
     </a>
   </div>
-
-
 
 <br>
 <div align="center">
