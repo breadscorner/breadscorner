@@ -2,13 +2,7 @@
 
 ## 
 
-I am a web developing student who discovered his passion for web development while creating a website for my retail business, Precious Pawz. It was a fulfilling experience that ignited a genuine interest in this field. That's when I decided to make a career transition and dive deeper into web development.
-
-Currently, I'm enrolled in the Full Stack Web Development program at BCIT, where I'm gaining a comprehensive understanding of both front-end and back-end technologies. The program has not only expanded my technical knowledge but also sharpened my design and management skills.
-
-When I'm not coding, you'll find me working towards my personal growth. I'm an avid reader, constantly seeking new knowledge and perspectives. Staying fit is important to me, so I make sure to exercise regularly and participate in different sports. I also have a knack for adventure. Whether it's hitting the road with my trailer to explore the beauty of Washington, Oregon, California, and Nevada, or embarking on international journeys to places like Belize or Europe, I love exploring new destinations and creating lasting memories.
-
-I'm eagerly looking forward to taking on more challenging projects and collaborating with fellow developers to create innovative and impactful solutions and eventually creating my own business in tech.
+I'm a web development student who discovered my passion when building a website for my business, Precious Pawz. Currently, I'm enrolled in BCIT's full-stack web development program, where I'm not only expanding my technical knowledge but also sharpening my design and management skills. Outside of coding, I'm an avid reader and stay physically active through regular exercise and sports. My love for adventure takes me on road trips through the Pacific Northwest and international journeys to places like Belize and Europe. I'm eagerly anticipating the opportunity to take on challenging projects and, ultimately, to launch my own tech business.
 
   ## :fire: My Stats
   <br>
