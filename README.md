@@ -1,7 +1,5 @@
 <img src="https://github.com/breadscorner/breadscorner/assets/108560747/92c1f281-5c35-4ed4-81be-938b3a1ab049" alt="Brett Cover">
 
-## 
-
 I'm a web development student who discovered my passion when building a website for my business, Precious Pawz. Currently, I'm enrolled in BCIT's full-stack web development program, where I'm not only expanding my technical knowledge but also sharpening my design and management skills. Outside of coding, I'm an avid reader and stay physically active through regular exercise and sports. My love for adventure takes me on road trips through the Pacific Northwest and international journeys to places like Belize and Europe. I'm eagerly anticipating the opportunity to take on challenging projects and, ultimately, to launch my own tech business.
 
   ## :fire: My Stats
