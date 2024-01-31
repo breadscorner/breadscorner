@@ -1,4 +1,4 @@
-![Brett Cover](https://github.com/breadscorner/breadscorner/assets/108560747/92c1f281-5c35-4ed4-81be-938b3a1ab049)
+![Brett Cover](https://github.com/breadscorner/breadscorner/assets/108560747/f5a333d4-700a-412c-beb1-dd9a1e8ec533)
 
 I'm a web development student who discovered my passion when building a website for my business, Precious Pawz. Currently, I'm enrolled in BCIT's full-stack web development program, where I'm not only expanding my technical knowledge but also sharpening my design and management skills.
 
