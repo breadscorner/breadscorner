@@ -20,7 +20,7 @@ I'm eagerly anticipating the opportunity to take on challenging projects and, ul
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadscorner&layout=compact&theme=ocean_dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadscorner&layout=compact&theme=ocean_dark&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
