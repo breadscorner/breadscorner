@@ -18,7 +18,7 @@ Outside of coding, I'm an avid reader and stay physically active through regular
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadscorner&layout=compact&theme=ocean_dark&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadscorner&layout=compact&theme=ocean_dark&langs_count=10" alt="Top Languages" />
   </a>
 </div>
 
