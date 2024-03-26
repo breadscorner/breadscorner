@@ -51,4 +51,10 @@ I'm a web development student who discovered my passion when building a website 
   </a>
 </div>
 
+&nbsp;
+
+<div align="center">
+
 Interested in collaborating on projects? Reach out to me at [hello@brettgill.io](mailto:hello@brettgill.io) for any opportunities or ideas.
+
+</div>
