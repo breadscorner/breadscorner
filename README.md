@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,c,aws,cs,css,dotnet,electron,express,js,laravel,md,materialui,mysql,nextjs,nodejs,php,pnpm,postgres,react,tailwind,ts,vite" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,cs,css,dotnet,electron,express,js,laravel,md,materialui,mysql,nextjs,nodejs,php,pnpm,postgres,react,tailwind,ts,vite" />
   </a>
 </p>
 
