@@ -10,7 +10,7 @@
 
 &nbsp;
 
-I'm a web development student who discovered my passion when building a website for my business, Precious Pawz. Currently, I'm enrolled in BCIT's full-stack web development program, where I'm not only expanding my technical knowledge but also sharpening my design and management skills.
+I'm a full stack developer who discovered my passion when building a website for my business, Precious Pawz. I graduated in April 2024 from British Columbia Institute of Technology's Full Stack Web Development program with distinction.
 
 &nbsp;
 
