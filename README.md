@@ -2,14 +2,6 @@
 
 &nbsp;
 
-<div align="center">
-  <h2>
-    Junior Frontend Developer for TEKsystems at YVR in Vancouver, Canada.
-  </h2>
-</div>
-
-&nbsp;
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,aws,css,dotnet,electron,express,js,laravel,md,materialui,mysql,nextjs,nodejs,php,pnpm,postgres,react,tailwind,ts,vite" />
